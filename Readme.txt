@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+personal portfolio
+this project is based on the snapfolio template by loyd 
+customized and maintained by Loyd Birhan 
+live site:https://loyd9509.github.io/Loyd-Birhan-Portfolio/
 
-Template Name: SnapFolio
-Template URL: https://bootstrapmade.com/snapfolio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
